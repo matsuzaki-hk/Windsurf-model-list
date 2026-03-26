@@ -34,7 +34,7 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git add models_output.json models_table.md
+        git add Windsurf_Self-serve_models_output.json Windsurf_Self-serve_models_table.md
         # 変更がある場合のみコミット
         git diff --cached --quiet || (git commit -m "Update model list - $(date +%Y-%m-%d)" && git push)
         
@@ -61,14 +61,14 @@ jobs:
           自動取得日時: ${{ steps.date.outputs.date }}
           
           ### 含まれるファイル
-          - `models_output.json` - 生データ（JSON形式）
-          - `models_table.md` - 整形済みモデル一覧（Markdown形式）
+          - `Windsurf_Self-serve_models_output.json` - 生データ（JSON形式）
+          - `Windsurf_Self-serve_models_table.md` - 整形済みモデル一覧（Markdown形式）
           
           ### 取得元
           [Windsurf Models](https://docs.windsurf.com/windsurf/models)
         files: |
-          models_output.json
-          models_table.md
+          Windsurf_Self-serve_models_output.json
+          Windsurf_Self-serve_models_table.md
         draft: false
         prerelease: false
       env:

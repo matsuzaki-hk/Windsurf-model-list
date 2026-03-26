@@ -6,8 +6,8 @@ from playwright.async_api import async_playwright
 
 URL = "https://docs.windsurf.com/windsurf/models"  # 英語版URL（最新情報）
 SCRIPT_DIR = Path(__file__).parent.resolve()
-OUTPUT_JSON = SCRIPT_DIR / "models_output.json"
-OUTPUT_MD = SCRIPT_DIR / "models_table.md"
+OUTPUT_JSON = SCRIPT_DIR / "Windsurf_Self-serve_models_output.json"
+OUTPUT_MD = SCRIPT_DIR / "Windsurf_Self-serve_models_table.md"
 
 # タブとテーブルを特定するセレクタ/XPath
 TAB_CONTAINER_XPATH = '/html/body/div[2]/div/div[1]/div[2]/div[2]/div/div/div[1]/div[3]'
@@ -263,7 +263,18 @@ async def main():
             with open(path, "w", encoding="utf-8") as f:
                 f.write(content)
 
-        safe_write(OUTPUT_JSON, json.dumps(result, ensure_ascii=False, indent=2))
+        # 取得日時
+        fetch_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        # JSON出力（取得日時を含む）
+        json_output = {
+            "_metadata": {
+                "fetch_datetime": fetch_datetime,
+                "source_url": URL
+            },
+            "data": result
+        }
+        safe_write(OUTPUT_JSON, json.dumps(json_output, ensure_ascii=False, indent=2))
 
         # Markdown生成（無料モデルを先頭、続いて有料モデル）
         def sanitize(text: str) -> str:
@@ -294,7 +305,16 @@ async def main():
                     return False
             return True
 
+        # Markdown生成（取得日時を先頭に追加）
         md_lines = []
+        md_lines.append(f"# Windsurf Self-serve モデル一覧")
+        md_lines.append("")
+        md_lines.append(f"**取得日時**: {fetch_datetime}")
+        md_lines.append("")
+        md_lines.append(f"**取得元**: [{URL}]({URL})")
+        md_lines.append("")
+        md_lines.append("---")
+        md_lines.append("")
         free_models = []
         paid_models = []
         seen_models = set()  # 重複排除用

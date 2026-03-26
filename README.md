@@ -12,7 +12,7 @@ Windsurfのモデルリストを自動取得するPythonスクリプトです。
 
 ## 取得データ形式
 
-### JSON形式 (`models_output.json`)
+### JSON形式 (`Windsurf_Self-serve_models_output.json`)
 ```json
 {
   "Recommended": [
@@ -26,7 +26,7 @@ Windsurfのモデルリストを自動取得するPythonスクリプトです。
 }
 ```
 
-### Markdown形式 (`models_table.md`)
+### Markdown形式 (`Windsurf_Self-serve_models_table.md`)
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
 | Claude Sonnet 4.5 | $3.00 | $0.30 | $15.00 |
@@ -54,8 +54,8 @@ fetch_models.bat
 ```
 
 ### 出力ファイル
-- `models_output.json` - 生データ（JSON形式）
-- `models_table.md` - 整形済みモデル一覧（Markdown形式）
+- `Windsurf_Self-serve_models_output.json` - 生データ（JSON形式）
+- `Windsurf_Self-serve_models_table.md` - 整形済みモデル一覧（Markdown形式）
 
 ## 取得されるモデル一覧
 

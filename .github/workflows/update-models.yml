@@ -1,0 +1,76 @@
+name: Daily Model List Update
+
+on:
+  schedule:
+    # 毎日UTC 0:00（日本時間9:00）に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  update-model-list:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install playwright
+        playwright install chromium
+        
+    - name: Run model fetcher
+      run: python fetch_models.py
+      
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+    - name: Commit and push changes
+      run: |
+        git add models_output.json models_table.md
+        # 変更がある場合のみコミット
+        git diff --cached --quiet || (git commit -m "Update model list - $(date +%Y-%m-%d)" && git push)
+        
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+      
+    - name: Delete old release
+      uses: dev-drprasad/delete-tag-and-release@v1.0
+      with:
+        tag_name: latest
+        delete_release: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      continue-on-error: true  # 初回実行時はリリースが存在しないため
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: latest
+        name: "Model List ${{ steps.date.outputs.date }}"
+        body: |
+          ## Windsurf Model List - ${{ steps.date.outputs.date }}
+          
+          自動取得日時: ${{ steps.date.outputs.date }}
+          
+          ### 含まれるファイル
+          - `models_output.json` - 生データ（JSON形式）
+          - `models_table.md` - 整形済みモデル一覧（Markdown形式）
+          
+          ### 取得元
+          [Windsurf Models](https://docs.windsurf.com/windsurf/models)
+        files: |
+          models_output.json
+          models_table.md
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

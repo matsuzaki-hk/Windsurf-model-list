@@ -49,7 +49,7 @@ playwright install chromium
 # Pythonスクリプトで実行
 python fetch_models.py
 
-# またはバッチファイルで実行
+# またはバッチファイルで実行(fetch_models.pyと同じパス)
 fetch_models.bat
 ```
 

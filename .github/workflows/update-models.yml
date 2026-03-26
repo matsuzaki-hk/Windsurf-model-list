@@ -43,16 +43,15 @@ jobs:
       run: echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
       
     - name: Delete old release
-      uses: dev-drprasad/delete-tag-and-release@v1.0
+      uses: dev-drprasad/delete-tag-and-release@v1.1
       with:
         tag_name: latest
         delete_release: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
       continue-on-error: true  # 初回実行時はリリースが存在しないため
         
     - name: Create Release
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       with:
         tag_name: latest
         name: "Model List ${{ steps.date.outputs.date }}"

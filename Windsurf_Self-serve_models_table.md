@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-04-14 03:33:22
+**取得日時**: 2026-04-15 03:32:22
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -9,19 +9,20 @@
 ## 無料モデル
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
-| SWE-1.5 | — | — | — |
 | Kimi K2.5 | — | — | — |
-| Phoenix Alpha Fast | — | — | — |
+| SWE-1.5 | — | — | — |
 
 ## 有料モデル (Self-serve)
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
-| Claude Sonnet 4.5 | $3.00 | $0.30 | $15.00 |
-| SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
+| Adaptive | $0.50 | $0.10 | $2.00 |
 | Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | GPT-5.3-Codex Medium | $1.75 | $0.17 | $14.00 |
 | GPT-5.4 Low Thinking | $2.50 | $0.25 | $15.00 |
+| SWE-1.6 | $0.30 | $0.03 | $1.50 |
+| SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
+| SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
 | Fast Arena | $0.10 | — | $0.50 |
 | Hybrid Arena | $1.00 | $0.10 | $5.00 |
 | Frontier Arena | $3.00 | $0.30 | $15.00 |
@@ -30,7 +31,7 @@
 | Claude Sonnet 4 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Haiku 4.5 | $1.00 | $0.10 | $5.00 |
-| Claude Sonnet 4.5 1M | $3.00 | $0.30 | $15.00 |
+| Claude Sonnet 4.5 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.5 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Opus 4.6 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 1M | $5.00 | $0.50 | $25.00 |
@@ -108,8 +109,6 @@
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Medium | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Minimal | $0.50 | $0.05 | $3.00 |
-| Gemini 3 Pro High Thinking | $2.00 | $0.20 | $12.00 |
-| Gemini 3 Pro Low Thinking | $2.00 | $0.20 | $12.00 |
 | Gemini 3.1 Pro High Thinking | $2.00 | $0.20 | $12.00 |
 | Gemini 3.1 Pro Low Thinking | $2.00 | $0.20 | $12.00 |
 

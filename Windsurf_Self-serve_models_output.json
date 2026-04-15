@@ -1,27 +1,15 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-04-14 03:33:22",
+    "fetch_datetime": "2026-04-15 03:32:22",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
     "Recommended": [
       {
-        "model": "Claude Sonnet 4.5",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "SWE-1.5 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
-      },
-      {
-        "model": "SWE-1.5",
-        "input_cost": "—",
-        "cache_input_cost": "—",
-        "output_cost": "—"
+        "model": "Adaptive",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$2.00"
       },
       {
         "model": "Claude Opus 4.6 Thinking",
@@ -52,6 +40,18 @@
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ],
     "Windsurf": [
@@ -66,6 +66,12 @@
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
+      },
+      {
+        "model": "Adaptive",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$2.00"
       },
       {
         "model": "Fast Arena",
@@ -86,10 +92,16 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "Phoenix Alpha Fast",
-        "input_cost": "—",
-        "cache_input_cost": "—",
-        "output_cost": "—"
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ],
     "Anthropic": [
@@ -125,12 +137,6 @@
       },
       {
         "model": "Claude Sonnet 4.5",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "Claude Sonnet 4.5 1M",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
@@ -630,18 +636,6 @@
         "input_cost": "$0.50",
         "cache_input_cost": "$0.05",
         "output_cost": "$3.00"
-      },
-      {
-        "model": "Gemini 3 Pro High Thinking",
-        "input_cost": "$2.00",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$12.00"
-      },
-      {
-        "model": "Gemini 3 Pro Low Thinking",
-        "input_cost": "$2.00",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$12.00"
       },
       {
         "model": "Gemini 3.1 Pro High Thinking",

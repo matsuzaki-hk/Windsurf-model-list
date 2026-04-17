@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-04-16 03:39:17",
+    "fetch_datetime": "2026-04-17 03:35:37",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -16,6 +16,36 @@
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 High Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 XHigh Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 Max Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
@@ -182,6 +212,36 @@
         "input_cost": "$30.00",
         "cache_input_cost": "$3.00",
         "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 High Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 XHigh Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Opus 4.7 Max Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$12.50"
       },
       {
         "model": "Claude Sonnet 4.6",

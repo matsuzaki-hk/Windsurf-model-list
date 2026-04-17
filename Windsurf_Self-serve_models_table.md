@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-04-16 03:39:17
+**取得日時**: 2026-04-17 03:35:37
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -17,6 +17,11 @@
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $2.00 |
 | Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.7 Low Thinking | $2.50 | $0.25 | $12.50 |
+| Claude Opus 4.7 Medium Thinking | $2.50 | $0.25 | $12.50 |
+| Claude Opus 4.7 High Thinking | $2.50 | $0.25 | $12.50 |
+| Claude Opus 4.7 XHigh Thinking | $2.50 | $0.25 | $12.50 |
+| Claude Opus 4.7 Max Thinking | $2.50 | $0.25 | $12.50 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | GPT-5.3-Codex Medium | $1.75 | $0.17 | $14.00 |
 | GPT-5.4 Low Thinking | $2.50 | $0.25 | $15.00 |

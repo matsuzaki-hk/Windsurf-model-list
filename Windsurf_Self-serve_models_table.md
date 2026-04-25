@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-04-24 03:39:46
+**取得日時**: 2026-04-25 03:24:34
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -109,6 +109,16 @@
 | GPT-5.4 No Thinking Fast | $5.00 | $0.50 | $30.00 |
 | GPT-5.4 XHigh Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 XHigh Thinking Fast | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 No Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 No Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 Low Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 Medium Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 Medium Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 High Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 High Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 XHigh Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 XHigh Thinking Fast | $12.50 | $1.25 | $75.00 |
 | Gemini 2.5 Pro | $1.25 | $0.13 | $10.00 |
 | Gemini 3 Flash High | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |

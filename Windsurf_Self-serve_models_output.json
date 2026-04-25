@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-04-24 03:39:46",
+    "fetch_datetime": "2026-04-25 03:24:34",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -664,6 +664,66 @@
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 No Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 No Thinking Fast",
+        "input_cost": "$12.50",
+        "cache_input_cost": "$1.25",
+        "output_cost": "$75.00"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking Fast",
+        "input_cost": "$12.50",
+        "cache_input_cost": "$1.25",
+        "output_cost": "$75.00"
+      },
+      {
+        "model": "GPT-5.5 Medium Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 Medium Thinking Fast",
+        "input_cost": "$12.50",
+        "cache_input_cost": "$1.25",
+        "output_cost": "$75.00"
+      },
+      {
+        "model": "GPT-5.5 High Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 High Thinking Fast",
+        "input_cost": "$12.50",
+        "cache_input_cost": "$1.25",
+        "output_cost": "$75.00"
+      },
+      {
+        "model": "GPT-5.5 XHigh Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$30.00"
+      },
+      {
+        "model": "GPT-5.5 XHigh Thinking Fast",
+        "input_cost": "$12.50",
+        "cache_input_cost": "$1.25",
+        "output_cost": "$75.00"
       }
     ],
     "Google": [

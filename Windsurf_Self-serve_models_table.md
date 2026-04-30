@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-04-29 03:54:07
+**取得日時**: 2026-04-30 03:55:46
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 

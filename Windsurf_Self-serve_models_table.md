@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-04-30 03:55:46
+**取得日時**: 2026-05-01 04:07:00
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -23,8 +23,6 @@
 | Claude Opus 4.7 XHigh Thinking | $2.50 | $0.25 | $12.50 |
 | Claude Opus 4.7 Max Thinking | $2.50 | $0.25 | $12.50 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
-| GPT-5.3-Codex Medium | $1.75 | $0.17 | $14.00 |
-| GPT-5.4 Low Thinking | $2.50 | $0.25 | $15.00 |
 | SWE-1.6 | $0.30 | $0.03 | $1.50 |
 | SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
 | SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
@@ -92,12 +90,14 @@
 | GPT-5.3-Codex High Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.3-Codex Low | $1.75 | $0.17 | $14.00 |
 | GPT-5.3-Codex Low Fast | $3.50 | $0.35 | $28.00 |
+| GPT-5.3-Codex Medium | $1.75 | $0.17 | $14.00 |
 | GPT-5.3-Codex Medium Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.3-Codex Spark Medium | $1.75 | $0.17 | $14.00 |
 | GPT-5.3-Codex X-High | $1.75 | $0.17 | $14.00 |
 | GPT-5.3-Codex XHigh Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.4 High Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 High Thinking Fast | $5.00 | $0.50 | $30.00 |
+| GPT-5.4 Low Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 Low Thinking Fast | $5.00 | $0.50 | $30.00 |
 | GPT-5.4 Medium Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 Medium Thinking Fast | $5.00 | $0.50 | $30.00 |
@@ -109,16 +109,16 @@
 | GPT-5.4 No Thinking Fast | $5.00 | $0.50 | $30.00 |
 | GPT-5.4 XHigh Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 XHigh Thinking Fast | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 No Thinking | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 No Thinking Fast | $12.50 | $1.25 | $75.00 |
-| GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 Low Thinking Fast | $12.50 | $1.25 | $75.00 |
-| GPT-5.5 Medium Thinking | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 Medium Thinking Fast | $12.50 | $1.25 | $75.00 |
-| GPT-5.5 High Thinking | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 High Thinking Fast | $12.50 | $1.25 | $75.00 |
-| GPT-5.5 XHigh Thinking | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 XHigh Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 No Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 No Thinking Fast | $6.25 | $0.63 | $37.50 |
+| GPT-5.5 Low Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 Low Thinking Fast | $6.25 | $0.63 | $37.50 |
+| GPT-5.5 Medium Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 Medium Thinking Fast | $6.25 | $0.63 | $37.50 |
+| GPT-5.5 High Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 High Thinking Fast | $6.25 | $0.63 | $37.50 |
+| GPT-5.5 XHigh Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 XHigh Thinking Fast | $6.25 | $0.63 | $37.50 |
 | Gemini 2.5 Pro | $1.25 | $0.13 | $10.00 |
 | Gemini 3 Flash High | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |

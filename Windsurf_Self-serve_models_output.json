@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-05-05 03:39:40",
+    "fetch_datetime": "2026-05-06 03:55:58",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -18,34 +18,10 @@
         "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 Low Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "Claude Opus 4.7 High Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "Claude Opus 4.7 XHigh Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "Claude Opus 4.7 Max Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
@@ -54,10 +30,70 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "Kimi K2.5",
-        "input_cost": "—",
-        "cache_input_cost": "—",
-        "output_cost": "—"
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "Claude Opus 4.6 Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
       },
       {
         "model": "SWE-1.6",
@@ -120,6 +156,60 @@
         "input_cost": "$0.30",
         "cache_input_cost": "$0.03",
         "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-check",
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
+      },
+      {
+        "model": "Claude Opus 4.6 Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ],
     "Anthropic": [
@@ -134,18 +224,6 @@
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Sonnet 4",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "Claude Sonnet 4 Thinking",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
       },
       {
         "model": "Claude Haiku 4.5",
@@ -202,34 +280,34 @@
         "output_cost": "$150.00"
       },
       {
-        "model": "Claude Opus 4.7 Low Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 High",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 Medium Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 Low",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 High Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 Max",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 XHigh Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 Max Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$12.50"
+        "model": "Claude Opus 4.7 XHigh",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Sonnet 4.6",
@@ -254,6 +332,60 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "Opus 4.7 Review",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.6 Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ],
     "OpenAI": [
@@ -654,13 +786,13 @@
         "output_cost": "$30.00"
       },
       {
-        "model": "GPT-5.5 No Thinking",
+        "model": "GPT-5.5 High Thinking",
         "input_cost": "$2.50",
         "cache_input_cost": "$0.25",
         "output_cost": "$15.00"
       },
       {
-        "model": "GPT-5.5 No Thinking Fast",
+        "model": "GPT-5.5 High Thinking Fast",
         "input_cost": "$6.25",
         "cache_input_cost": "$0.63",
         "output_cost": "$37.50"
@@ -690,16 +822,22 @@
         "output_cost": "$37.50"
       },
       {
-        "model": "GPT-5.5 High Thinking",
+        "model": "GPT-5.5 No Thinking",
         "input_cost": "$2.50",
         "cache_input_cost": "$0.25",
         "output_cost": "$15.00"
       },
       {
-        "model": "GPT-5.5 High Thinking Fast",
+        "model": "GPT-5.5 No Thinking Fast",
         "input_cost": "$6.25",
         "cache_input_cost": "$0.63",
         "output_cost": "$37.50"
+      },
+      {
+        "model": "GPT 5.5 Review",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
       },
       {
         "model": "GPT-5.5 XHigh Thinking",
@@ -712,6 +850,54 @@
         "input_cost": "$6.25",
         "cache_input_cost": "$0.63",
         "output_cost": "$37.50"
+      },
+      {
+        "model": "Claude Opus 4.6 Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ],
     "Google": [
@@ -756,6 +942,54 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$12.00"
+      },
+      {
+        "model": "Claude Opus 4.6 Thinking",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "DeepSeek V4",
+        "input_cost": "$1.74",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.48"
+      },
+      {
+        "model": "GPT-5.5 Low Thinking",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Kimi K2.6",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "SWE-1.6",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.6 Fast",
+        "input_cost": "$0.30",
+        "cache_input_cost": "$0.03",
+        "output_cost": "$1.50"
       }
     ]
   }

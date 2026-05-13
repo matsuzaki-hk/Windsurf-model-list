@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-05-12 03:58:28",
+    "fetch_datetime": "2026-05-13 04:06:49",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -308,6 +308,36 @@
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.7 High Fast",
+        "input_cost": "$30.00",
+        "cache_input_cost": "$3.00",
+        "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Low Fast",
+        "input_cost": "$30.00",
+        "cache_input_cost": "$3.00",
+        "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Max Fast",
+        "input_cost": "$30.00",
+        "cache_input_cost": "$3.00",
+        "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Medium Fast",
+        "input_cost": "$30.00",
+        "cache_input_cost": "$3.00",
+        "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 XHigh Fast",
+        "input_cost": "$30.00",
+        "cache_input_cost": "$3.00",
+        "output_cost": "$150.00"
       },
       {
         "model": "Claude Sonnet 4.6",

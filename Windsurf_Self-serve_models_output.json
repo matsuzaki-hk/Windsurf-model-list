@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-05-13 04:06:49",
+    "fetch_datetime": "2026-05-14 04:06:08",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -49,9 +49,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -97,9 +97,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -147,9 +147,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -201,9 +201,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -286,34 +286,16 @@
         "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.7 Low",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Max",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 XHigh",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
         "model": "Claude Opus 4.7 High Fast",
         "input_cost": "$30.00",
         "cache_input_cost": "$3.00",
         "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 Low",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Opus 4.7 Low Fast",
@@ -322,16 +304,34 @@
         "output_cost": "$150.00"
       },
       {
+        "model": "Claude Opus 4.7 Max",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Opus 4.7 Max Fast",
         "input_cost": "$30.00",
         "cache_input_cost": "$3.00",
         "output_cost": "$150.00"
       },
       {
+        "model": "Claude Opus 4.7 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Opus 4.7 Medium Fast",
         "input_cost": "$30.00",
         "cache_input_cost": "$3.00",
         "output_cost": "$150.00"
+      },
+      {
+        "model": "Claude Opus 4.7 XHigh",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Opus 4.7 XHigh Fast",
@@ -407,9 +407,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -919,9 +919,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",
@@ -1011,9 +1011,9 @@
       },
       {
         "model": "SWE-1.6",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
       },
       {
         "model": "SWE-1.6 Fast",

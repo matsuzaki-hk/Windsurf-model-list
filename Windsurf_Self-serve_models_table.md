@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-05-13 04:06:49
+**取得日時**: 2026-05-14 04:06:08
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -9,6 +9,7 @@
 ## 無料モデル
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
+| SWE-1.6 | — | — | — |
 | SWE-1.5 | — | — | — |
 | SWE-check | — | — | — |
 
@@ -22,7 +23,6 @@
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
 | GPT-5.5 Low Thinking | $2.50 | $0.25 | $15.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |
-| SWE-1.6 | $0.30 | $0.03 | $1.50 |
 | SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
 | SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
 | Fast Arena | $0.10 | — | $0.50 |
@@ -39,13 +39,13 @@
 | Claude Opus 4.6 Thinking 1M | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Thinking Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 High | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Low | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Max | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 XHigh | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 High Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.7 Low | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 Low Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.7 Max | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 Max Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 Medium Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.7 XHigh | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 XHigh Fast | $30.00 | $3.00 | $150.00 |
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |

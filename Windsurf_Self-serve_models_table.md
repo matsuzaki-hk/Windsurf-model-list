@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-05-28 04:21:48
+**取得日時**: 2026-05-29 04:25:03
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -17,8 +17,7 @@
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $2.00 |
-| Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Medium | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.8 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
 | GPT-5.5 Low Thinking | $2.50 | $0.25 | $15.00 |
@@ -36,6 +35,7 @@
 | Claude Opus 4.6 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 1M | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Thinking 1M | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Thinking Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 High | $5.00 | $0.50 | $25.00 |
@@ -44,9 +44,19 @@
 | Claude Opus 4.7 Low Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 Max | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 Max Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.7 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 Medium Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 XHigh | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.7 XHigh Fast | $30.00 | $3.00 | $150.00 |
+| Claude Opus 4.8 High | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.8 High Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 4.8 Low | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.8 Low Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 4.8 Max | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.8 Max Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 4.8 Medium Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 4.8 XHigh | $5.00 | $0.50 | $25.00 |
+| Claude Opus 4.8 XHigh Fast | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 Thinking 1M | $3.00 | $0.30 | $15.00 |

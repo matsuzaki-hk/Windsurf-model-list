@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-05-28 04:21:48",
+    "fetch_datetime": "2026-05-29 04:25:03",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -12,13 +12,7 @@
         "output_cost": "$2.00"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
@@ -60,13 +54,7 @@
         "output_cost": "$1.50"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
@@ -164,13 +152,7 @@
         "output_cost": "—"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
@@ -340,6 +322,66 @@
         "output_cost": "$150.00"
       },
       {
+        "model": "Claude Opus 4.8 High",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.8 High Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Low",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Low Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Max",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Max Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.8 Medium Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 4.8 XHigh",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 4.8 XHigh Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
         "model": "Claude Sonnet 4.6",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -370,13 +412,7 @@
         "output_cost": "$25.00"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
@@ -882,13 +918,7 @@
         "output_cost": "$37.50"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"
@@ -974,13 +1004,7 @@
         "output_cost": "$12.00"
       },
       {
-        "model": "Claude Opus 4.6 Thinking",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Opus 4.7 Medium",
+        "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$25.00"

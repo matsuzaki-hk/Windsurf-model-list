@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-06-09 04:17:34
+**取得日時**: 2026-06-10 04:38:19
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -18,6 +18,7 @@
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $2.00 |
 | Claude Opus 4.8 Medium | $5.00 | $0.50 | $25.00 |
+| Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
 | GPT-5.5 Low Thinking | $2.50 | $0.25 | $15.00 |
@@ -57,6 +58,10 @@
 | Claude Opus 4.8 Medium Fast | $10.00 | $1.00 | $50.00 |
 | Claude Opus 4.8 XHigh | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 XHigh Fast | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 High | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 Low | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 Max | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 XHigh | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 Thinking 1M | $3.00 | $0.30 | $15.00 |

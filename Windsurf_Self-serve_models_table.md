@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-06-15 05:19:52
+**取得日時**: 2026-06-16 05:23:34
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -21,7 +21,7 @@
 | Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
-| GPT-5.5 Low Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |
 | SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
 | SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
@@ -131,16 +131,16 @@
 | GPT-5.4 No Thinking Fast | $5.00 | $0.50 | $30.00 |
 | GPT-5.4 XHigh Thinking | $2.50 | $0.25 | $15.00 |
 | GPT-5.4 XHigh Thinking Fast | $5.00 | $0.50 | $30.00 |
-| GPT-5.5 High Thinking | $2.50 | $0.25 | $15.00 |
-| GPT-5.5 High Thinking Fast | $6.25 | $0.63 | $37.50 |
-| GPT-5.5 Low Thinking Fast | $6.25 | $0.63 | $37.50 |
-| GPT-5.5 Medium Thinking | $2.50 | $0.25 | $15.00 |
-| GPT-5.5 Medium Thinking Fast | $6.25 | $0.63 | $37.50 |
-| GPT-5.5 No Thinking | $2.50 | $0.25 | $15.00 |
-| GPT-5.5 No Thinking Fast | $6.25 | $0.63 | $37.50 |
-| GPT 5.5 Review | $2.50 | $0.25 | $15.00 |
-| GPT-5.5 XHigh Thinking | $2.50 | $0.25 | $15.00 |
-| GPT-5.5 XHigh Thinking Fast | $6.25 | $0.63 | $37.50 |
+| GPT-5.5 High Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 High Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 Low Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 Medium Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 Medium Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 No Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 No Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT 5.5 Review | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 XHigh Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.5 XHigh Thinking Fast | $12.50 | $1.25 | $75.00 |
 | Gemini 2.5 Pro | $1.25 | $0.13 | $10.00 |
 | Gemini 3 Flash High | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-06-23 04:14:30",
+    "fetch_datetime": "2026-06-24 04:17:18",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -36,6 +36,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -45,6 +51,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {
@@ -84,6 +96,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -93,6 +111,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {
@@ -188,6 +212,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -197,6 +227,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {
@@ -484,6 +520,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -493,6 +535,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {
@@ -996,6 +1044,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -1005,6 +1059,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {
@@ -1064,6 +1124,30 @@
         "output_cost": "$12.00"
       },
       {
+        "model": "Gemini 3.5 Flash High",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$9.00"
+      },
+      {
+        "model": "Gemini 3.5 Flash Low",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$9.00"
+      },
+      {
+        "model": "Gemini 3.5 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$9.00"
+      },
+      {
+        "model": "Gemini 3.5 Flash Minimal",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$9.00"
+      },
+      {
         "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -1088,6 +1172,12 @@
         "output_cost": "$3.48"
       },
       {
+        "model": "GLM-5.2",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
         "model": "GPT-5.5 Low Thinking",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -1097,6 +1187,12 @@
         "model": "Kimi K2.6",
         "input_cost": "$0.95",
         "cache_input_cost": "$0.16",
+        "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K2.7",
+        "input_cost": "$0.95",
+        "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
       },
       {

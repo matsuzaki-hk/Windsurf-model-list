@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-06-23 04:14:30
+**取得日時**: 2026-06-24 04:17:18
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -21,8 +21,10 @@
 | Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
+| GLM-5.2 | $1.40 | $0.26 | $4.40 |
 | GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |
+| Kimi K2.7 | $0.95 | $0.19 | $4.00 |
 | SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
 | SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
 | Fast Arena | $0.10 | — | $0.50 |
@@ -148,6 +150,10 @@
 | Gemini 3 Flash Minimal | $0.50 | $0.05 | $3.00 |
 | Gemini 3.1 Pro High Thinking | $2.00 | $0.20 | $12.00 |
 | Gemini 3.1 Pro Low Thinking | $2.00 | $0.20 | $12.00 |
+| Gemini 3.5 Flash High | $1.50 | $0.15 | $9.00 |
+| Gemini 3.5 Flash Low | $1.50 | $0.15 | $9.00 |
+| Gemini 3.5 Flash Medium | $1.50 | $0.15 | $9.00 |
+| Gemini 3.5 Flash Minimal | $1.50 | $0.15 | $9.00 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

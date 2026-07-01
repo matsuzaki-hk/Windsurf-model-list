@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-06-30 04:18:39",
+    "fetch_datetime": "2026-07-01 04:47:10",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -25,6 +25,12 @@
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
@@ -85,6 +91,12 @@
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
@@ -201,6 +213,12 @@
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
@@ -490,6 +508,36 @@
         "output_cost": "$15.00"
       },
       {
+        "model": "Claude Sonnet 5 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Low",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Max",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 XHigh",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
         "model": "Opus 4.7 Review",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -509,6 +557,12 @@
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
@@ -1038,6 +1092,12 @@
         "output_cost": "$15.00"
       },
       {
+        "model": "Claude Sonnet 5 Medium",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
         "model": "DeepSeek V4",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
@@ -1161,6 +1221,12 @@
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
+      },
+      {
+        "model": "Claude Sonnet 5 Medium",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"

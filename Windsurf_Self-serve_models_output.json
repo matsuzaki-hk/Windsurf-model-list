@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-07-08 03:34:48",
+    "fetch_datetime": "2026-07-09 04:04:40",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -66,16 +66,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "Claude Opus 4.8 Medium",
@@ -132,16 +132,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       }
     ],
     "Windsurf": [
@@ -192,6 +192,18 @@
         "input_cost": "$0.30",
         "cache_input_cost": "$0.03",
         "output_cost": "$1.50"
+      },
+      {
+        "model": "SWE-1.7",
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
+      },
+      {
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-check",
@@ -254,16 +266,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       }
     ],
     "Anthropic": [
@@ -598,16 +610,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       }
     ],
     "OpenAI": [
@@ -1128,16 +1140,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       }
     ],
     "Google": [
@@ -1262,16 +1274,16 @@
         "output_cost": "$4.00"
       },
       {
-        "model": "SWE-1.6",
+        "model": "SWE-1.7",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
       },
       {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.30",
-        "cache_input_cost": "$0.03",
-        "output_cost": "$1.50"
+        "model": "SWE-1.7 Lightning",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       }
     ]
   }

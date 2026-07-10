@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-07-09 04:04:40
+**取得日時**: 2026-07-10 04:04:00
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -150,6 +150,21 @@
 | GPT 5.5 Review | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 XHigh Thinking | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 XHigh Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.6 Luna High Thinking | $1.00 | $0.10 | $6.00 |
+| GPT-5.6 Luna Low Thinking | $1.00 | $0.10 | $6.00 |
+| GPT-5.6 Luna Medium Thinking | $1.00 | $0.10 | $6.00 |
+| GPT-5.6 Luna No Thinking | $1.00 | $0.10 | $6.00 |
+| GPT-5.6 Luna XHigh Thinking | $1.00 | $0.10 | $6.00 |
+| GPT-5.6 Sol High Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol Low Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol Medium Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol No Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol XHigh Thinking | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Terra High Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.6 Terra Low Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.6 Terra Medium Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.6 Terra No Thinking | $2.50 | $0.25 | $15.00 |
+| GPT-5.6 Terra XHigh Thinking | $2.50 | $0.25 | $15.00 |
 | Gemini 2.5 Pro | $1.25 | $0.13 | $10.00 |
 | Gemini 3 Flash High | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |

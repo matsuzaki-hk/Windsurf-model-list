@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-07-28 03:24:47",
+    "fetch_datetime": "2026-07-29 03:26:26",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -22,6 +22,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$1.00",
         "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
@@ -64,6 +70,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",
@@ -90,6 +102,12 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Sonnet 4.6 Thinking",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -130,6 +148,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",
@@ -224,6 +248,12 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Sonnet 4.6 Thinking",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -264,6 +294,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",
@@ -496,6 +532,66 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "Claude Opus 5 High",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 5 High Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 Low",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 5 Low Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 Max",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 5 Max Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 5 Medium Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 XHigh",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
+        "model": "Claude Opus 5 XHigh Fast",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
         "model": "Claude Sonnet 4.6",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -568,6 +664,12 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Sonnet 4.6 Thinking",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -608,6 +710,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",
@@ -1188,6 +1296,12 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
+      },
+      {
         "model": "Claude Sonnet 4.6 Thinking",
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
@@ -1228,6 +1342,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",
@@ -1310,6 +1430,30 @@
         "output_cost": "$9.00"
       },
       {
+        "model": "Gemini 3.6 Flash High",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.6 Flash Low",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.6 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.6 Flash Minimal",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
         "model": "Claude Opus 4.8 Medium",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -1320,6 +1464,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$1.00",
         "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Opus 5 Medium",
+        "input_cost": "$5.00",
+        "cache_input_cost": "$0.50",
+        "output_cost": "$25.00"
       },
       {
         "model": "Claude Sonnet 4.6 Thinking",
@@ -1362,6 +1512,12 @@
         "input_cost": "$0.95",
         "cache_input_cost": "$0.19",
         "output_cost": "$4.00"
+      },
+      {
+        "model": "Kimi K3 High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.30",
+        "output_cost": "$15.00"
       },
       {
         "model": "SWE-1.7",

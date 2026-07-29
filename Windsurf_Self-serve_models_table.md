@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-07-28 03:24:47
+**取得日時**: 2026-07-29 03:26:26
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -20,6 +20,7 @@
 | Adaptive | $0.50 | $0.10 | $2.00 |
 | Claude Opus 4.8 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 5 Medium | $3.00 | $0.30 | $15.00 |
 | DeepSeek V4 | $1.74 | $0.15 | $3.48 |
@@ -27,6 +28,7 @@
 | GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |
 | Kimi K2.7 | $0.95 | $0.19 | $4.00 |
+| Kimi K3 High | $3.00 | $0.30 | $15.00 |
 | SWE-1.7 Lightning | $2.50 | $1.00 | $12.50 |
 | SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
 | Fast Arena | $0.10 | — | $0.50 |
@@ -67,6 +69,15 @@
 | Claude Fable 5 Low | $10.00 | $1.00 | $50.00 |
 | Claude Fable 5 Max | $10.00 | $1.00 | $50.00 |
 | Claude Fable 5 XHigh | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 High | $5.00 | $0.50 | $25.00 |
+| Claude Opus 5 High Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 Low | $5.00 | $0.50 | $25.00 |
+| Claude Opus 5 Low Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 Max | $5.00 | $0.50 | $25.00 |
+| Claude Opus 5 Max Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 Medium Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 5 XHigh | $5.00 | $0.50 | $25.00 |
+| Claude Opus 5 XHigh Fast | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 Thinking 1M | $3.00 | $0.30 | $15.00 |
@@ -176,6 +187,10 @@
 | Gemini 3.5 Flash Low | $1.50 | $0.15 | $9.00 |
 | Gemini 3.5 Flash Medium | $1.50 | $0.15 | $9.00 |
 | Gemini 3.5 Flash Minimal | $1.50 | $0.15 | $9.00 |
+| Gemini 3.6 Flash High | $1.50 | $0.15 | $7.50 |
+| Gemini 3.6 Flash Low | $1.50 | $0.15 | $7.50 |
+| Gemini 3.6 Flash Medium | $1.50 | $0.15 | $7.50 |
+| Gemini 3.6 Flash Minimal | $1.50 | $0.15 | $7.50 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

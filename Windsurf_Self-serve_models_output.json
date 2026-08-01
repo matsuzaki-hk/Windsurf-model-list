@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-07-31 03:41:36",
+    "fetch_datetime": "2026-08-01 03:40:18",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -1195,33 +1195,33 @@
       },
       {
         "model": "GPT-5.6 Luna High Thinking",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$6.00"
+        "input_cost": "$0.20",
+        "cache_input_cost": "$0.02",
+        "output_cost": "$1.20"
       },
       {
         "model": "GPT-5.6 Luna Low Thinking",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$6.00"
+        "input_cost": "$0.20",
+        "cache_input_cost": "$0.02",
+        "output_cost": "$1.20"
       },
       {
         "model": "GPT-5.6 Luna Medium Thinking",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$6.00"
+        "input_cost": "$0.20",
+        "cache_input_cost": "$0.02",
+        "output_cost": "$1.20"
       },
       {
         "model": "GPT-5.6 Luna No Thinking",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$6.00"
+        "input_cost": "$0.20",
+        "cache_input_cost": "$0.02",
+        "output_cost": "$1.20"
       },
       {
         "model": "GPT-5.6 Luna XHigh Thinking",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$6.00"
+        "input_cost": "$0.20",
+        "cache_input_cost": "$0.02",
+        "output_cost": "$1.20"
       },
       {
         "model": "GPT-5.6 Sol High Thinking",
@@ -1255,33 +1255,33 @@
       },
       {
         "model": "GPT-5.6 Terra High Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$12.00"
       },
       {
         "model": "GPT-5.6 Terra Low Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$12.00"
       },
       {
         "model": "GPT-5.6 Terra Medium Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$12.00"
       },
       {
         "model": "GPT-5.6 Terra No Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$12.00"
       },
       {
         "model": "GPT-5.6 Terra XHigh Thinking",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$0.25",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$12.00"
       },
       {
         "model": "Claude Opus 4.8 Medium",

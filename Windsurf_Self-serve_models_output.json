@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-08-04 03:27:40",
+    "fetch_datetime": "2026-08-05 03:22:37",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -42,7 +42,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"
@@ -120,7 +120,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"
@@ -266,7 +266,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"
@@ -682,7 +682,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"
@@ -1314,7 +1314,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"
@@ -1484,7 +1484,7 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "DeepSeek V4",
+        "model": "DeepSeek V4 Pro",
         "input_cost": "$1.74",
         "cache_input_cost": "$0.15",
         "output_cost": "$3.48"

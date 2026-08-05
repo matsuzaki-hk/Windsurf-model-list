@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-08-04 03:27:40
+**取得日時**: 2026-08-05 03:22:37
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -23,7 +23,7 @@
 | Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 5 Medium | $3.00 | $0.30 | $15.00 |
-| DeepSeek V4 | $1.74 | $0.15 | $3.48 |
+| DeepSeek V4 Pro | $1.74 | $0.15 | $3.48 |
 | GLM-5.2 | $1.40 | $0.26 | $4.40 |
 | GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |

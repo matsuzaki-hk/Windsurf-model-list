@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-08-10 02:25:29
+**取得日時**: 2026-08-11 02:18:56
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -22,7 +22,7 @@
 | Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
-| Claude Sonnet 5 Medium | $3.00 | $0.30 | $15.00 |
+| Claude Sonnet 5 Medium | $2.00 | $0.20 | $10.00 |
 | DeepSeek V4 Pro | $1.74 | $0.15 | $3.48 |
 | GLM-5.2 | $1.40 | $0.26 | $4.40 |
 | GPT-5.5 Low Thinking | $5.00 | $0.50 | $30.00 |
@@ -81,10 +81,10 @@
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 Thinking 1M | $3.00 | $0.30 | $15.00 |
-| Claude Sonnet 5 High | $3.00 | $0.30 | $15.00 |
-| Claude Sonnet 5 Low | $3.00 | $0.30 | $15.00 |
-| Claude Sonnet 5 Max | $3.00 | $0.30 | $15.00 |
-| Claude Sonnet 5 XHigh | $3.00 | $0.30 | $15.00 |
+| Claude Sonnet 5 High | $2.00 | $0.20 | $10.00 |
+| Claude Sonnet 5 Low | $2.00 | $0.20 | $10.00 |
+| Claude Sonnet 5 Max | $2.00 | $0.20 | $10.00 |
+| Claude Sonnet 5 XHigh | $2.00 | $0.20 | $10.00 |
 | Opus 4.7 Review | $5.00 | $0.50 | $25.00 |
 | GPT-4o | $2.50 | $1.25 | $10.00 |
 | GPT-4.1 | $2.00 | $0.50 | $8.00 |

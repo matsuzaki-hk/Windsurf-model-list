@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-08-10 02:25:29",
+    "fetch_datetime": "2026-08-11 02:18:56",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -37,9 +37,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",
@@ -115,9 +115,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",
@@ -261,9 +261,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",
@@ -617,33 +617,33 @@
       },
       {
         "model": "Claude Sonnet 5 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Sonnet 5 Low",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Sonnet 5 Max",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Sonnet 5 XHigh",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Opus 4.7 Review",
@@ -677,9 +677,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",
@@ -1309,9 +1309,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",
@@ -1479,9 +1479,9 @@
       },
       {
         "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "DeepSeek V4 Pro",

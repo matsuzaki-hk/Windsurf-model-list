@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-08-14 02:33:45
+**取得日時**: 2026-08-15 01:42:56
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -25,6 +25,7 @@
 | Claude Sonnet 5 Medium | $2.00 | $0.20 | $10.00 |
 | DeepSeek V4 Pro | $1.74 | $0.15 | $3.48 |
 | DeepSeek V4 Flash | $0.14 | $0.03 | $0.28 |
+| Gemini 3.7 Flash Medium | $1.50 | $0.15 | $7.50 |
 | GLM-5.2 | $1.40 | $0.26 | $4.40 |
 | GPT-5.5 Low Thinking† | $5.00 | $0.50 | $30.00 |
 | Kimi K2.6 | $0.95 | $0.16 | $4.00 |
@@ -192,6 +193,9 @@
 | Gemini 3.6 Flash Low | $1.50 | $0.15 | $7.50 |
 | Gemini 3.6 Flash Medium | $1.50 | $0.15 | $7.50 |
 | Gemini 3.6 Flash Minimal | $1.50 | $0.15 | $7.50 |
+| Gemini 3.7 Flash High | $1.50 | $0.15 | $7.50 |
+| Gemini 3.7 Flash Low | $1.50 | $0.15 | $7.50 |
+| Gemini 3.7 Flash Minimal | $1.50 | $0.15 | $7.50 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

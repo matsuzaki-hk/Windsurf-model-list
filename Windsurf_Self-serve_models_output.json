@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-08-14 02:33:45",
+    "fetch_datetime": "2026-08-15 01:42:56",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -52,6 +52,12 @@
         "input_cost": "$0.14",
         "cache_input_cost": "$0.03",
         "output_cost": "$0.28"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2",
@@ -1455,6 +1461,30 @@
       },
       {
         "model": "Gemini 3.6 Flash Minimal",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.7 Flash High",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.7 Flash Low",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
+      },
+      {
+        "model": "Gemini 3.7 Flash Minimal",
         "input_cost": "$1.50",
         "cache_input_cost": "$0.15",
         "output_cost": "$7.50"

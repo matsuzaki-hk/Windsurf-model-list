@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-08-17 01:47:57
+**取得日時**: 2026-08-18 01:43:08
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -9,68 +9,57 @@
 ## 無料モデル
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
-| SWE-1.7 | — | — | — |
-| SWE-1.5 | — | — | — |
-| SWE-1.6 | — | — | — |
 | SWE-check | — | — | — |
 
 ## 有料モデル (Self-serve)
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $2.00 |
-| Claude Opus 4.8 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
-| Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 5 Medium | $2.00 | $0.20 | $10.00 |
-| DeepSeek V4 Pro | $1.74 | $0.15 | $3.48 |
-| DeepSeek V4 Flash | $0.14 | $0.03 | $0.28 |
 | Gemini 3.7 Flash Medium | $1.50 | $0.15 | $7.50 |
-| GLM-5.2 | $1.40 | $0.26 | $4.40 |
-| GPT-5.5 Low Thinking† | $5.00 | $0.50 | $30.00 |
-| Kimi K2.6 | $0.95 | $0.16 | $4.00 |
-| Kimi K2.7 | $0.95 | $0.19 | $4.00 |
+| GLM-5.2 High | $1.40 | $0.26 | $4.40 |
+| GPT-5.6 Luna Medium Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Sol Medium Thinking† | $5.00 | $0.50 | $30.00 |
 | Kimi K3 High | $3.00 | $0.30 | $15.00 |
-| SWE-1.7 Lightning | $2.50 | $1.00 | $12.50 |
-| SWE-1.5 Fast | $0.30 | $0.03 | $1.50 |
+| SWE-1.7 Max | $0.50 | $0.20 | $2.50 |
+| SWE-1.7 Lightning Max | $2.50 | $1.00 | $12.50 |
 | Fast Arena | $0.10 | — | $0.50 |
 | Hybrid Arena | $1.00 | $0.10 | $5.00 |
 | Frontier Arena | $3.00 | $0.30 | $15.00 |
-| SWE-1.6 Fast | $0.30 | $0.03 | $1.50 |
+| SWE-1.6 | $0.50 | $0.20 | $2.50 |
+| SWE-1.6 Fast | $0.50 | $0.20 | $2.50 |
+| SWE-1.7 Lightning Medium | $2.50 | $1.00 | $12.50 |
+| SWE-1.7 Medium | $0.50 | $0.20 | $2.50 |
 | Claude Opus 4.5 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.5 Thinking | $5.00 | $0.50 | $25.00 |
 | Claude Haiku 4.5 | $1.00 | $0.10 | $5.00 |
 | Claude Sonnet 4.5 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.5 Thinking | $3.00 | $0.30 | $15.00 |
+| Claude Fable 5 High | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 Low | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 Max | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 XHigh | $10.00 | $1.00 | $50.00 |
 | Claude Opus 4.6 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 1M | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.6 Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Thinking 1M | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.6 Thinking Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 High | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 High Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 Low | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Low Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 Max | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Max Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 Medium | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 Medium Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.7 XHigh | $5.00 | $0.50 | $25.00 |
-| Claude Opus 4.7 XHigh Fast | $30.00 | $3.00 | $150.00 |
 | Claude Opus 4.8 High | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 High Fast | $10.00 | $1.00 | $50.00 |
 | Claude Opus 4.8 Low | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 Low Fast | $10.00 | $1.00 | $50.00 |
 | Claude Opus 4.8 Max | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 Max Fast | $10.00 | $1.00 | $50.00 |
+| Claude Opus 4.8 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 Medium Fast | $10.00 | $1.00 | $50.00 |
 | Claude Opus 4.8 XHigh | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.8 XHigh Fast | $10.00 | $1.00 | $50.00 |
-| Claude Fable 5 High | $10.00 | $1.00 | $50.00 |
-| Claude Fable 5 Low | $10.00 | $1.00 | $50.00 |
-| Claude Fable 5 Max | $10.00 | $1.00 | $50.00 |
-| Claude Fable 5 XHigh | $10.00 | $1.00 | $50.00 |
 | Claude Opus 5 High | $5.00 | $0.50 | $25.00 |
 | Claude Opus 5 High Fast | $10.00 | $1.00 | $50.00 |
 | Claude Opus 5 Low | $5.00 | $0.50 | $25.00 |
@@ -82,6 +71,7 @@
 | Claude Opus 5 XHigh Fast | $10.00 | $1.00 | $50.00 |
 | Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 1M | $3.00 | $0.30 | $15.00 |
+| Claude Sonnet 4.6 Thinking | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 4.6 Thinking 1M | $3.00 | $0.30 | $15.00 |
 | Claude Sonnet 5 High | $2.00 | $0.20 | $10.00 |
 | Claude Sonnet 5 Low | $2.00 | $0.20 | $10.00 |
@@ -90,22 +80,8 @@
 | Opus 4.7 Review | $5.00 | $0.50 | $25.00 |
 | GPT-4o | $2.50 | $1.25 | $10.00 |
 | GPT-4.1 | $2.00 | $0.50 | $8.00 |
-| GPT-5-Codex | $1.25 | $0.13 | $10.00 |
 | o3 | $2.00 | $0.50 | $8.00 |
 | o3 High Reasoning | $2.00 | $0.50 | $8.00 |
-| GPT-5.1-Codex Low | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex Max High | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex Max Low | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex Max Medium | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex-Mini Low | $0.25 | $0.03 | $2.00 |
-| GPT-5.2-Codex High | $1.75 | $0.17 | $14.00 |
-| GPT-5.2-Codex High Fast | $3.50 | $0.35 | $28.00 |
-| GPT-5.2-Codex Low | $1.75 | $0.17 | $14.00 |
-| GPT-5.2-Codex Low Fast | $3.50 | $0.35 | $28.00 |
-| GPT-5.2-Codex Medium | $1.75 | $0.17 | $14.00 |
-| GPT-5.2-Codex Medium Fast | $3.50 | $0.35 | $28.00 |
-| GPT-5.2-Codex XHigh | $1.75 | $0.17 | $14.00 |
-| GPT-5.2-Codex XHigh Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.2 High Thinking | $1.75 | $0.17 | $14.00 |
 | GPT-5.2 High Thinking Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.2 Low Thinking | $1.75 | $0.17 | $14.00 |
@@ -121,7 +97,6 @@
 | GPT-5.1 Low Thinking | $1.25 | $0.13 | $10.00 |
 | GPT-5.1 Medium Thinking | $1.25 | $0.13 | $10.00 |
 | GPT-5.1 High Thinking | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex-Mini | $1.25 | $0.13 | $10.00 |
 | GPT-5.1 No Thinking Fast | $2.50 | $0.25 | $20.00 |
 | GPT-5.1 Low Thinking Fast | $2.50 | $0.25 | $20.00 |
 | GPT-5.1 Medium Thinking Fast | $2.50 | $0.25 | $20.00 |
@@ -129,7 +104,6 @@
 | GPT-5 Low Thinking | $1.25 | $0.13 | $10.00 |
 | GPT-5 Medium Thinking | $1.25 | $0.13 | $10.00 |
 | GPT-5 High Thinking | $1.25 | $0.13 | $10.00 |
-| GPT-5.1-Codex Medium | $0.25 | $0.03 | $2.00 |
 | GPT-5.3-Codex High | $1.75 | $0.17 | $14.00 |
 | GPT-5.3-Codex High Fast | $3.50 | $0.35 | $28.00 |
 | GPT-5.3-Codex Low | $1.75 | $0.17 | $14.00 |
@@ -155,6 +129,7 @@
 | GPT-5.4 XHigh Thinking Fast | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 High Thinking† | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 High Thinking Fast | $12.50 | $1.25 | $75.00 |
+| GPT-5.5 Low Thinking† | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 Low Thinking Fast | $12.50 | $1.25 | $75.00 |
 | GPT-5.5 Medium Thinking† | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 Medium Thinking Fast | $12.50 | $1.25 | $75.00 |
@@ -164,20 +139,39 @@
 | GPT-5.5 XHigh Thinking† | $5.00 | $0.50 | $30.00 |
 | GPT-5.5 XHigh Thinking Fast | $12.50 | $1.25 | $75.00 |
 | GPT-5.6 Luna High Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Luna High Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Luna Low Thinking† | $0.20 | $0.02 | $1.20 |
-| GPT-5.6 Luna Medium Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Luna Low Thinking Fast | $0.40 | $0.04 | $2.40 |
+| GPT-5.6 Luna Max Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Luna Max Thinking Fast | $0.40 | $0.04 | $2.40 |
+| GPT-5.6 Luna Medium Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Luna No Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Luna No Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Luna XHigh Thinking† | $0.20 | $0.02 | $1.20 |
+| GPT-5.6 Luna XHigh Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Sol High Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol High Thinking Fast | $10.00 | $1.00 | $60.00 |
 | GPT-5.6 Sol Low Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol Medium Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol Low Thinking Fast | $10.00 | $1.00 | $60.00 |
+| GPT-5.6 Sol Max Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol Max Thinking Fast | $10.00 | $1.00 | $60.00 |
+| GPT-5.6 Sol Medium Thinking Fast | $10.00 | $1.00 | $60.00 |
 | GPT-5.6 Sol No Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol No Thinking Fast | $10.00 | $1.00 | $60.00 |
 | GPT-5.6 Sol XHigh Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol XHigh Thinking Fast | $10.00 | $1.00 | $60.00 |
 | GPT-5.6 Terra High Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra High Thinking Fast | $4.00 | $0.40 | $24.00 |
 | GPT-5.6 Terra Low Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra Low Thinking Fast | $4.00 | $0.40 | $24.00 |
+| GPT-5.6 Terra Max Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra Max Thinking Fast | $4.00 | $0.40 | $24.00 |
 | GPT-5.6 Terra Medium Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra Medium Thinking Fast | $4.00 | $0.40 | $24.00 |
 | GPT-5.6 Terra No Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra No Thinking Fast | $4.00 | $0.40 | $24.00 |
 | GPT-5.6 Terra XHigh Thinking† | $2.00 | $0.20 | $12.00 |
+| GPT-5.6 Terra XHigh Thinking Fast | $4.00 | $0.40 | $24.00 |
 | Gemini 2.5 Pro† | $1.25 | $0.13 | $10.00 |
 | Gemini 3 Flash High | $0.50 | $0.05 | $3.00 |
 | Gemini 3 Flash Low | $0.50 | $0.05 | $3.00 |

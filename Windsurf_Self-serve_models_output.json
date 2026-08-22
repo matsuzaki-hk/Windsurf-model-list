@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-08-21 01:49:12",
+    "fetch_datetime": "2026-08-22 01:41:59",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -70,128 +70,6 @@
         "input_cost": "$2.50",
         "cache_input_cost": "$1.00",
         "output_cost": "$12.50"
-      },
-      {
-        "model": "Claude Fable 5 Medium",
-        "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$50.00"
-      },
-      {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
-        "model": "Claude Sonnet 5 Medium",
-        "input_cost": "$2.00",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$10.00"
-      },
-      {
-        "model": "GLM-5.2 High",
-        "input_cost": "$1.40",
-        "cache_input_cost": "$0.26",
-        "output_cost": "$4.40"
-      },
-      {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$30.00"
-      },
-      {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
-      }
-    ],
-    "Windsurf": [
-      {
-        "model": "Adaptive",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$2.00"
-      },
-      {
-        "model": "Fast Arena",
-        "input_cost": "$0.10",
-        "cache_input_cost": "—",
-        "output_cost": "$0.50"
-      },
-      {
-        "model": "Hybrid Arena",
-        "input_cost": "$1.00",
-        "cache_input_cost": "$0.10",
-        "output_cost": "$5.00"
-      },
-      {
-        "model": "Frontier Arena",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "SWE-1.6",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.6 Fast",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Medium",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
-      },
-      {
-        "model": "SWE-1.7 Medium",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-check",
-        "input_cost": "—",
-        "cache_input_cost": "—",
-        "output_cost": "—"
       },
       {
         "model": "Claude Fable 5 Medium",

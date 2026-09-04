@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-09-03 04:10:30",
+    "fetch_datetime": "2026-09-04 04:16:07",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -12,9 +12,9 @@
         "output_cost": "$2.00"
       },
       {
-        "model": "Claude Fable 5 Medium",
+        "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -37,6 +37,24 @@
       },
       {
         "model": "GLM-5.2 High",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
+        "model": "GLM-5.3 High",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
+        "model": "GLM-5.3 Low",
+        "input_cost": "$1.40",
+        "cache_input_cost": "$0.26",
+        "output_cost": "$4.40"
+      },
+      {
+        "model": "GLM-5.3 Max",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
         "output_cost": "$4.40"
@@ -72,9 +90,9 @@
         "output_cost": "$12.50"
       },
       {
-        "model": "Claude Fable 5 Medium",
+        "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -88,6 +106,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
@@ -185,6 +209,36 @@
         "model": "Claude Fable 5 XHigh",
         "input_cost": "$10.00",
         "cache_input_cost": "$1.00",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Fable 5.1 High",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Fable 5.1 Low",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Fable 5.1 Max",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Fable 5.1 Medium",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$0.25",
+        "output_cost": "$50.00"
+      },
+      {
+        "model": "Claude Fable 5.1 XHigh",
+        "input_cost": "$10.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -422,9 +476,9 @@
         "output_cost": "$25.00"
       },
       {
-        "model": "Claude Fable 5 Medium",
+        "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -438,6 +492,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
@@ -1054,9 +1114,9 @@
         "output_cost": "$24.00"
       },
       {
-        "model": "Claude Fable 5 Medium",
+        "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -1070,6 +1130,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
@@ -1218,15 +1284,9 @@
         "output_cost": "$7.50"
       },
       {
-        "model": "Gemini 3.7 Flash Minimal",
-        "input_cost": "$1.50",
-        "cache_input_cost": "$0.15",
-        "output_cost": "$7.50"
-      },
-      {
-        "model": "Claude Fable 5 Medium",
+        "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
-        "cache_input_cost": "$1.00",
+        "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
       },
       {
@@ -1240,6 +1300,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 3.7 Flash Medium",
+        "input_cost": "$1.50",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",

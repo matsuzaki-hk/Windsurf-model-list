@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-09-03 04:10:30
+**取得日時**: 2026-09-04 04:16:07
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -14,11 +14,14 @@
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $2.00 |
-| Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5.1 Medium | $10.00 | $0.25 | $50.00 |
 | Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 5 Medium | $2.00 | $0.20 | $10.00 |
 | Gemini 3.7 Flash Medium | $1.50 | $0.15 | $7.50 |
 | GLM-5.2 High | $1.40 | $0.26 | $4.40 |
+| GLM-5.3 High | $1.40 | $0.26 | $4.40 |
+| GLM-5.3 Low | $1.40 | $0.26 | $4.40 |
+| GLM-5.3 Max | $1.40 | $0.26 | $4.40 |
 | GPT-5.6 Luna Medium Thinking† | $0.20 | $0.02 | $1.20 |
 | GPT-5.6 Sol Medium Thinking† | $5.00 | $0.50 | $30.00 |
 | Kimi K3 High | $3.00 | $0.30 | $15.00 |
@@ -32,7 +35,12 @@
 | Claude Fable 5 High | $10.00 | $1.00 | $50.00 |
 | Claude Fable 5 Low | $10.00 | $1.00 | $50.00 |
 | Claude Fable 5 Max | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5 Medium | $10.00 | $1.00 | $50.00 |
 | Claude Fable 5 XHigh | $10.00 | $1.00 | $50.00 |
+| Claude Fable 5.1 High | $10.00 | $0.25 | $50.00 |
+| Claude Fable 5.1 Low | $10.00 | $0.25 | $50.00 |
+| Claude Fable 5.1 Max | $10.00 | $0.25 | $50.00 |
+| Claude Fable 5.1 XHigh | $10.00 | $0.25 | $50.00 |
 | Claude Opus 4.6 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 1M | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.6 Thinking | $5.00 | $0.50 | $25.00 |
@@ -181,7 +189,6 @@
 | Gemini 3.6 Flash Minimal | $1.50 | $0.15 | $7.50 |
 | Gemini 3.7 Flash High | $1.50 | $0.15 | $7.50 |
 | Gemini 3.7 Flash Low | $1.50 | $0.15 | $7.50 |
-| Gemini 3.7 Flash Minimal | $1.50 | $0.15 | $7.50 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

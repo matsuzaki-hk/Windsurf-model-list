@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-09-10 04:23:34
+**取得日時**: 2026-09-11 04:22:55
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -9,6 +9,8 @@
 ## 無料モデル
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
 |---------|---------------------|---------------------------|---------------------|
+| GLM-5.2 High | — | — | — |
+| SWE-1.7 Max | — | — | — |
 
 ## 有料モデル (Self-serve)
 | モデル名 | 入力 (100万トークン) | キャッシュ入力 (100万トークン) | 出力 (100万トークン) |
@@ -18,15 +20,13 @@
 | Claude Opus 5 Medium | $5.00 | $0.50 | $25.00 |
 | Claude Sonnet 5 Medium | $2.00 | $0.20 | $10.00 |
 | Gemini 3.7 Flash Medium | $0.75 | $0.075 | $3.75 |
-| GLM-5.2 High | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 High | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 Low | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 Max | $1.40 | $0.26 | $4.40 |
 | GPT-5.6 Luna Medium Thinking† | $0.20 | $0.02 | $1.20 |
-| GPT-5.6 Sol Medium Thinking† | $5.00 | $0.50 | $30.00 |
+| GPT-5.6 Sol Medium Thinking† | $1.20 | $0.12 | $6.00 |
 | GPT-6 Astra Medium Thinking† | $10.00 | $1.00 | $50.00 |
 | Kimi K3 High | $3.00 | $0.30 | $15.00 |
-| SWE-1.7 Max | $0.50 | $0.20 | $2.50 |
 | SWE-1.7 Lightning Max | $2.50 | $1.00 | $12.50 |
 | Claude Opus 4.5 | $5.00 | $0.50 | $25.00 |
 | Claude Opus 4.5 Thinking | $5.00 | $0.50 | $25.00 |
@@ -150,17 +150,17 @@
 | GPT-5.6 Luna No Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Luna XHigh Thinking† | $0.20 | $0.02 | $1.20 |
 | GPT-5.6 Luna XHigh Thinking Fast | $0.40 | $0.04 | $2.40 |
-| GPT-5.6 Sol High Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol High Thinking Fast | $10.00 | $1.00 | $60.00 |
-| GPT-5.6 Sol Low Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol Low Thinking Fast | $10.00 | $1.00 | $60.00 |
-| GPT-5.6 Sol Max Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol Max Thinking Fast | $10.00 | $1.00 | $60.00 |
-| GPT-5.6 Sol Medium Thinking Fast | $10.00 | $1.00 | $60.00 |
-| GPT-5.6 Sol No Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol No Thinking Fast | $10.00 | $1.00 | $60.00 |
-| GPT-5.6 Sol XHigh Thinking† | $5.00 | $0.50 | $30.00 |
-| GPT-5.6 Sol XHigh Thinking Fast | $10.00 | $1.00 | $60.00 |
+| GPT-5.6 Sol High Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol High Thinking Fast | $8.00 | $0.80 | $40.00 |
+| GPT-5.6 Sol Low Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol Low Thinking Fast | $8.00 | $0.80 | $40.00 |
+| GPT-5.6 Sol Max Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol Max Thinking Fast | $8.00 | $0.80 | $40.00 |
+| GPT-5.6 Sol Medium Thinking Fast | $8.00 | $0.80 | $40.00 |
+| GPT-5.6 Sol No Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol No Thinking Fast | $8.00 | $0.80 | $40.00 |
+| GPT-5.6 Sol XHigh Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol XHigh Thinking Fast | $8.00 | $0.80 | $40.00 |
 | GPT-5.6 Terra High Thinking† | $2.00 | $0.20 | $12.00 |
 | GPT-5.6 Terra High Thinking Fast | $4.00 | $0.40 | $24.00 |
 | GPT-5.6 Terra Low Thinking† | $2.00 | $0.20 | $12.00 |

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-09-11 04:22:55",
+    "fetch_datetime": "2026-09-12 04:21:08",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -84,16 +84,10 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "SWE-1.7 Max",
+        "model": "SWE-2 High",
         "input_cost": "—",
         "cache_input_cost": "—",
         "output_cost": "—"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
       },
       {
         "model": "Claude Fable 5.1 Medium",
@@ -150,16 +144,10 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
+        "model": "SWE-2 High",
+        "input_cost": "$0.75",
+        "cache_input_cost": "$0.075",
+        "output_cost": "$3.75"
       }
     ],
     "Anthropic": [
@@ -542,16 +530,10 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
+        "model": "SWE-2 High",
+        "input_cost": "$0.75",
+        "cache_input_cost": "$0.075",
+        "output_cost": "$3.75"
       }
     ],
     "OpenAI": [
@@ -1216,16 +1198,10 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
+        "model": "SWE-2 High",
+        "input_cost": "$0.75",
+        "cache_input_cost": "$0.075",
+        "output_cost": "$3.75"
       }
     ],
     "Google": [
@@ -1392,16 +1368,10 @@
         "output_cost": "$15.00"
       },
       {
-        "model": "SWE-1.7 Max",
-        "input_cost": "$0.50",
-        "cache_input_cost": "$0.20",
-        "output_cost": "$2.50"
-      },
-      {
-        "model": "SWE-1.7 Lightning Max",
-        "input_cost": "$2.50",
-        "cache_input_cost": "$1.00",
-        "output_cost": "$12.50"
+        "model": "SWE-2 High",
+        "input_cost": "$0.75",
+        "cache_input_cost": "$0.075",
+        "output_cost": "$3.75"
       }
     ]
   }

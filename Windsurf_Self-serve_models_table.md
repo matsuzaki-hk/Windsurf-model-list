@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-09-14 04:40:40
+**取得日時**: 2026-09-15 04:41:30
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -193,6 +193,9 @@
 | Gemini 3.6 Flash Minimal | $1.50 | $0.15 | $7.50 |
 | Gemini 3.7 Flash High | $0.75 | $0.075 | $3.75 |
 | Gemini 3.7 Flash Low | $0.75 | $0.075 | $3.75 |
+| Gemini 3.8 Flash High | $0.75 | $0.075 | $3.75 |
+| Gemini 3.8 Flash Low | $0.75 | $0.075 | $3.75 |
+| Gemini 3.8 Flash Medium | $0.75 | $0.075 | $3.75 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

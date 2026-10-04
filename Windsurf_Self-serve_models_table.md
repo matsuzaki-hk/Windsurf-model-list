@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-10-03 05:05:15
+**取得日時**: 2026-10-04 05:38:17
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -25,7 +25,7 @@
 | GLM-5.3 Low | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 Max | $1.40 | $0.26 | $4.40 |
 | GPT-5.6 Luna Medium Thinking† | $0.20 | $0.02 | $1.20 |
-| GPT-5.6 Sol Medium Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol Medium Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-6 Astra Medium Thinking† | $10.00 | $1.00 | $50.00 |
 | GPT-6 Luna Medium Thinking† | $0.10 | $0.01 | $0.50 |
 | GPT-6 Sol Medium Thinking† | $2.00 | $0.20 | $10.00 |
@@ -161,16 +161,16 @@
 | GPT-5.6 Luna No Thinking Fast | $0.40 | $0.04 | $2.40 |
 | GPT-5.6 Luna XHigh Thinking† | $0.20 | $0.02 | $1.20 |
 | GPT-5.6 Luna XHigh Thinking Fast | $0.40 | $0.04 | $2.40 |
-| GPT-5.6 Sol High Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol High Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-5.6 Sol High Thinking Fast | $8.00 | $0.80 | $40.00 |
-| GPT-5.6 Sol Low Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol Low Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-5.6 Sol Low Thinking Fast | $8.00 | $0.80 | $40.00 |
-| GPT-5.6 Sol Max Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol Max Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-5.6 Sol Max Thinking Fast | $8.00 | $0.80 | $40.00 |
 | GPT-5.6 Sol Medium Thinking Fast | $8.00 | $0.80 | $40.00 |
-| GPT-5.6 Sol No Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol No Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-5.6 Sol No Thinking Fast | $8.00 | $0.80 | $40.00 |
-| GPT-5.6 Sol XHigh Thinking† | $1.20 | $0.12 | $6.00 |
+| GPT-5.6 Sol XHigh Thinking† | $4.00 | $0.40 | $20.00 |
 | GPT-5.6 Sol XHigh Thinking Fast | $8.00 | $0.80 | $40.00 |
 | GPT-5.6 Terra High Thinking† | $2.00 | $0.20 | $12.00 |
 | GPT-5.6 Terra High Thinking Fast | $4.00 | $0.40 | $24.00 |

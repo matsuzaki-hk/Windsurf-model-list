@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-10-06 06:05:02",
+    "fetch_datetime": "2026-10-07 05:40:41",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -18,28 +18,16 @@
         "output_cost": "$50.00"
       },
       {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
         "model": "Claude Opus 5.5 Medium",
         "input_cost": "$4.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$20.00"
       },
       {
-        "model": "Claude Sonnet 5 Medium",
+        "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
-      },
-      {
-        "model": "Gemini 3.7 Flash Medium",
-        "input_cost": "$0.75",
-        "cache_input_cost": "$0.075",
-        "output_cost": "$3.75"
       },
       {
         "model": "GLM-5.2 High",
@@ -66,18 +54,6 @@
         "output_cost": "$4.40"
       },
       {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$4.00",
-        "cache_input_cost": "$0.40",
-        "output_cost": "$20.00"
-      },
-      {
         "model": "GPT-6 Astra Medium Thinking†",
         "input_cost": "$10.00",
         "cache_input_cost": "$1.00",
@@ -100,6 +76,12 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "SWE-1.7 Lightning Max",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-2 High",
@@ -114,46 +96,22 @@
         "output_cost": "$50.00"
       },
       {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
         "model": "Claude Opus 5.5 Medium",
         "input_cost": "$4.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$20.00"
       },
       {
-        "model": "Claude Sonnet 5 Medium",
+        "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
-      },
-      {
-        "model": "Gemini 3.7 Flash Medium",
-        "input_cost": "$1.50",
-        "cache_input_cost": "$0.15",
-        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
         "output_cost": "$4.40"
-      },
-      {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$4.00",
-        "cache_input_cost": "$0.40",
-        "output_cost": "$20.00"
       },
       {
         "model": "GPT-6 Astra Medium Thinking†",
@@ -178,6 +136,12 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "SWE-1.7 Lightning Max",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-2 High",
@@ -204,18 +168,6 @@
         "input_cost": "$1.00",
         "cache_input_cost": "$0.10",
         "output_cost": "$5.00"
-      },
-      {
-        "model": "Claude Sonnet 4.5",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
-      },
-      {
-        "model": "Claude Sonnet 4.5 Thinking",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
-        "output_cost": "$15.00"
       },
       {
         "model": "Claude Fable 5 High",
@@ -566,6 +518,36 @@
         "output_cost": "$10.00"
       },
       {
+        "model": "Claude Sonnet 5.5 High",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Sonnet 5.5 Low",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Sonnet 5.5 Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Sonnet 5.5 Medium",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Sonnet 5.5 XHigh",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
         "model": "Opus 4.7 Review",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
@@ -578,46 +560,22 @@
         "output_cost": "$50.00"
       },
       {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
         "model": "Claude Opus 5.5 Medium",
         "input_cost": "$4.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$20.00"
       },
       {
-        "model": "Claude Sonnet 5 Medium",
+        "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
-      },
-      {
-        "model": "Gemini 3.7 Flash Medium",
-        "input_cost": "$1.50",
-        "cache_input_cost": "$0.15",
-        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
         "output_cost": "$4.40"
-      },
-      {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$4.00",
-        "cache_input_cost": "$0.40",
-        "output_cost": "$20.00"
       },
       {
         "model": "GPT-6 Astra Medium Thinking†",
@@ -642,6 +600,12 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "SWE-1.7 Lightning Max",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-2 High",
@@ -994,7 +958,7 @@
         "output_cost": "$75.00"
       },
       {
-        "model": "GPT 5.5 Review",
+        "model": "GPT-5.5 Review",
         "input_cost": "$5.00",
         "cache_input_cost": "$0.50",
         "output_cost": "$30.00"
@@ -1258,6 +1222,36 @@
         "output_cost": "$50.00"
       },
       {
+        "model": "GPT-6 Astra High Thinking Fast†",
+        "input_cost": "$20.00",
+        "cache_input_cost": "$2.00",
+        "output_cost": "$100.00"
+      },
+      {
+        "model": "GPT-6 Astra Low Thinking Fast†",
+        "input_cost": "$20.00",
+        "cache_input_cost": "$2.00",
+        "output_cost": "$100.00"
+      },
+      {
+        "model": "GPT-6 Astra Max Thinking Fast†",
+        "input_cost": "$20.00",
+        "cache_input_cost": "$2.00",
+        "output_cost": "$100.00"
+      },
+      {
+        "model": "GPT-6 Astra Medium Thinking Fast†",
+        "input_cost": "$20.00",
+        "cache_input_cost": "$2.00",
+        "output_cost": "$100.00"
+      },
+      {
+        "model": "GPT-6 Astra XHigh Thinking Fast†",
+        "input_cost": "$20.00",
+        "cache_input_cost": "$2.00",
+        "output_cost": "$100.00"
+      },
+      {
         "model": "GPT-6 Luna High Thinking†",
         "input_cost": "$0.10",
         "cache_input_cost": "$0.01",
@@ -1402,16 +1396,70 @@
         "output_cost": "$20.00"
       },
       {
+        "model": "GPT-6.1 Sol High Thinking†",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "GPT-6.1 Sol High Thinking Fast†",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Low Thinking†",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Low Thinking Fast†",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Max Thinking†",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Max Thinking Fast†",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Medium Thinking†",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "GPT-6.1 Sol Medium Thinking Fast†",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
+        "model": "GPT-6.1 Sol XHigh Thinking†",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "GPT-6.1 Sol XHigh Thinking Fast†",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
         "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$50.00"
-      },
-      {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
       },
       {
         "model": "Claude Opus 5.5 Medium",
@@ -1420,34 +1468,16 @@
         "output_cost": "$20.00"
       },
       {
-        "model": "Claude Sonnet 5 Medium",
+        "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
-      },
-      {
-        "model": "Gemini 3.7 Flash Medium",
-        "input_cost": "$1.50",
-        "cache_input_cost": "$0.15",
-        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
         "output_cost": "$4.40"
-      },
-      {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$4.00",
-        "cache_input_cost": "$0.40",
-        "output_cost": "$20.00"
       },
       {
         "model": "GPT-6 Astra Medium Thinking†",
@@ -1472,6 +1502,12 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "SWE-1.7 Lightning Max",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-2 High",
@@ -1614,46 +1650,22 @@
         "output_cost": "$50.00"
       },
       {
-        "model": "Claude Opus 5 Medium",
-        "input_cost": "$5.00",
-        "cache_input_cost": "$0.50",
-        "output_cost": "$25.00"
-      },
-      {
         "model": "Claude Opus 5.5 Medium",
         "input_cost": "$4.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$20.00"
       },
       {
-        "model": "Claude Sonnet 5 Medium",
+        "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
-      },
-      {
-        "model": "Gemini 3.7 Flash Medium",
-        "input_cost": "$1.50",
-        "cache_input_cost": "$0.15",
-        "output_cost": "$7.50"
       },
       {
         "model": "GLM-5.2 High",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
         "output_cost": "$4.40"
-      },
-      {
-        "model": "GPT-5.6 Luna Medium Thinking†",
-        "input_cost": "$0.20",
-        "cache_input_cost": "$0.02",
-        "output_cost": "$1.20"
-      },
-      {
-        "model": "GPT-5.6 Sol Medium Thinking†",
-        "input_cost": "$4.00",
-        "cache_input_cost": "$0.40",
-        "output_cost": "$20.00"
       },
       {
         "model": "GPT-6 Astra Medium Thinking†",
@@ -1678,6 +1690,12 @@
         "input_cost": "$3.00",
         "cache_input_cost": "$0.30",
         "output_cost": "$15.00"
+      },
+      {
+        "model": "SWE-1.7 Lightning Max",
+        "input_cost": "$2.50",
+        "cache_input_cost": "$1.00",
+        "output_cost": "$12.50"
       },
       {
         "model": "SWE-2 High",

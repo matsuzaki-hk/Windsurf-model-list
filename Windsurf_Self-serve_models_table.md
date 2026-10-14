@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-10-13 06:37:56
+**取得日時**: 2026-10-14 04:39:36
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -19,6 +19,7 @@
 | Claude Fable 5.1 Medium | $10.00 | $0.25 | $50.00 |
 | Claude Opus 5.5 Medium | $4.00 | $0.20 | $20.00 |
 | Claude Sonnet 5.5 Medium | $2.00 | $0.20 | $10.00 |
+| Gemini 4 Argon Medium | $2.00 | $0.10 | $10.00 |
 | GLM-5.3 High | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 Low | $1.40 | $0.26 | $4.40 |
 | GLM-5.3 Max | $1.40 | $0.26 | $4.40 |
@@ -249,6 +250,8 @@
 | Gemini 3.8 Flash High | $0.75 | $0.075 | $3.75 |
 | Gemini 3.8 Flash Low | $0.75 | $0.075 | $3.75 |
 | Gemini 3.8 Flash Medium | $0.75 | $0.075 | $3.75 |
+| Gemini 4 Argon High | $2.00 | $0.10 | $10.00 |
+| Gemini 4 Argon Low | $2.00 | $0.10 | $10.00 |
 
 ## BYOK (Bring Your Own Key) モデル
 | モデル名 | 備考 |

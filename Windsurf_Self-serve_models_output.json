@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-10-13 06:37:56",
+    "fetch_datetime": "2026-10-14 04:39:36",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -27,6 +27,12 @@
         "model": "Claude Sonnet 5.5 Medium",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
         "output_cost": "$10.00"
       },
       {
@@ -106,6 +112,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
       },
       {
         "model": "GLM-5.2 High",
@@ -570,6 +582,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
       },
       {
         "model": "GLM-5.2 High",
@@ -1474,6 +1492,12 @@
         "output_cost": "$10.00"
       },
       {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
+      },
+      {
         "model": "GLM-5.2 High",
         "input_cost": "$1.40",
         "cache_input_cost": "$0.26",
@@ -1644,6 +1668,24 @@
         "output_cost": "$3.75"
       },
       {
+        "model": "Gemini 4 Argon High",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Low",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.10",
+        "output_cost": "$10.00"
+      },
+      {
         "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
@@ -1660,6 +1702,12 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
         "output_cost": "$10.00"
+      },
+      {
+        "model": "Gemini 4 Argon Medium",
+        "input_cost": "$4.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$20.00"
       },
       {
         "model": "GLM-5.2 High",

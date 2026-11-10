@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-11-09 05:57:43",
+    "fetch_datetime": "2026-11-10 07:01:17",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -16,6 +16,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Opus 5.5 Medium",
@@ -100,6 +106,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Opus 5.5 Medium",
@@ -224,10 +236,34 @@
         "output_cost": "$12.50"
       },
       {
+        "model": "Claude Fable 5.2 High",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Fable 5.2 High Fast",
+        "input_cost": "$16.00",
+        "cache_input_cost": "$0.40",
+        "output_cost": "$20.00"
+      },
+      {
         "model": "Claude Fable 5.1 Low",
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 Low",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Fable 5.2 Low Fast",
+        "input_cost": "$16.00",
+        "cache_input_cost": "$0.40",
+        "output_cost": "$20.00"
       },
       {
         "model": "Claude Fable 5.1 Max",
@@ -236,16 +272,52 @@
         "output_cost": "$12.50"
       },
       {
+        "model": "Claude Fable 5.2 Max",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Fable 5.2 Max Fast",
+        "input_cost": "$16.00",
+        "cache_input_cost": "$0.40",
+        "output_cost": "$20.00"
+      },
+      {
         "model": "Claude Fable 5.1 Medium",
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
       },
       {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Fable 5.2 Medium Fast",
+        "input_cost": "$16.00",
+        "cache_input_cost": "$0.40",
+        "output_cost": "$20.00"
+      },
+      {
         "model": "Claude Fable 5.1 XHigh",
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 XHigh",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
+        "model": "Claude Fable 5.2 XHigh Fast",
+        "input_cost": "$16.00",
+        "cache_input_cost": "$0.40",
+        "output_cost": "$20.00"
       },
       {
         "model": "Claude Haiku 5.5 High",
@@ -606,6 +678,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Opus 5.5 Medium",
@@ -1396,6 +1474,12 @@
         "output_cost": "$12.50"
       },
       {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
+      },
+      {
         "model": "Claude Opus 5.5 Medium",
         "input_cost": "$4.00",
         "cache_input_cost": "$0.20",
@@ -1588,6 +1672,12 @@
         "input_cost": "$10.00",
         "cache_input_cost": "$0.25",
         "output_cost": "$12.50"
+      },
+      {
+        "model": "Claude Fable 5.2 Medium",
+        "input_cost": "$8.00",
+        "cache_input_cost": "$0.20",
+        "output_cost": "$10.00"
       },
       {
         "model": "Claude Opus 5.5 Medium",

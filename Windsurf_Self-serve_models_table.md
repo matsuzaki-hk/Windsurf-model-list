@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-11-09 05:57:43
+**取得日時**: 2026-11-10 07:01:17
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -16,6 +16,7 @@
 |---------|---------------------|---------------------------|---------------------|
 | Adaptive | $0.50 | $0.10 | $0.50 |
 | Claude Fable 5.1 Medium | $10.00 | $0.25 | $12.50 |
+| Claude Fable 5.2 Medium | $8.00 | $0.20 | $10.00 |
 | Claude Opus 5.5 Medium | $4.00 | $0.20 | $5.00 |
 | Claude Sonnet 5.5 Medium | $2.00 | $0.10 | $2.50 |
 | Gemini 3.8 Flash Medium | $0.75 | $0.075 | $0.75 |
@@ -35,9 +36,18 @@
 | Claude Fable 5 Medium | $10.00 | $1.00 | $12.50 |
 | Claude Fable 5 XHigh | $10.00 | $1.00 | $12.50 |
 | Claude Fable 5.1 High | $10.00 | $0.25 | $12.50 |
+| Claude Fable 5.2 High | $8.00 | $0.20 | $10.00 |
+| Claude Fable 5.2 High Fast | $16.00 | $0.40 | $20.00 |
 | Claude Fable 5.1 Low | $10.00 | $0.25 | $12.50 |
+| Claude Fable 5.2 Low | $8.00 | $0.20 | $10.00 |
+| Claude Fable 5.2 Low Fast | $16.00 | $0.40 | $20.00 |
 | Claude Fable 5.1 Max | $10.00 | $0.25 | $12.50 |
+| Claude Fable 5.2 Max | $8.00 | $0.20 | $10.00 |
+| Claude Fable 5.2 Max Fast | $16.00 | $0.40 | $20.00 |
+| Claude Fable 5.2 Medium Fast | $16.00 | $0.40 | $20.00 |
 | Claude Fable 5.1 XHigh | $10.00 | $0.25 | $12.50 |
+| Claude Fable 5.2 XHigh | $8.00 | $0.20 | $10.00 |
+| Claude Fable 5.2 XHigh Fast | $16.00 | $0.40 | $20.00 |
 | Claude Haiku 5.5 High | $0.10 | $0.01 | $0.125 |
 | Claude Haiku 5.5 Low | $0.10 | $0.01 | $0.125 |
 | Claude Haiku 5.5 Max | $0.10 | $0.01 | $0.125 |

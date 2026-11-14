@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-11-13 06:22:07",
+    "fetch_datetime": "2026-11-14 06:01:54",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -90,9 +90,9 @@
         "output_cost": "$2.50"
       },
       {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
+        "model": "Kimi K3.1 Pro Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
         "output_cost": "—"
       },
       {
@@ -180,9 +180,9 @@
         "output_cost": "$2.50"
       },
       {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
+        "model": "Kimi K3.1 Pro Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
         "output_cost": "—"
       },
       {
@@ -752,9 +752,9 @@
         "output_cost": "$2.50"
       },
       {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
+        "model": "Kimi K3.1 Pro Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
         "output_cost": "—"
       },
       {
@@ -1546,9 +1546,9 @@
         "output_cost": "$2.50"
       },
       {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
+        "model": "Kimi K3.1 Pro Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
         "output_cost": "—"
       },
       {
@@ -1746,9 +1746,9 @@
         "output_cost": "$2.50"
       },
       {
-        "model": "Kimi K3 High",
-        "input_cost": "$3.00",
-        "cache_input_cost": "$0.30",
+        "model": "Kimi K3.1 Pro Max",
+        "input_cost": "$2.00",
+        "cache_input_cost": "$0.20",
         "output_cost": "—"
       },
       {

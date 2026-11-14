@@ -1,6 +1,6 @@
 # Windsurf Self-serve モデル一覧
 
-**取得日時**: 2026-11-13 06:22:07
+**取得日時**: 2026-11-14 06:01:54
 
 **取得元**: [https://docs.windsurf.com/windsurf/models](https://docs.windsurf.com/windsurf/models)
 
@@ -28,7 +28,7 @@
 | GPT-6 Astra Medium Thinking† | $10.00 | $1.00 | $12.50 |
 | GPT-6 Luna Medium Thinking† | $0.10 | $0.01 | $0.125 |
 | GPT-6 Sol Medium Thinking† | $2.00 | $0.20 | $2.50 |
-| Kimi K3 High | $3.00 | $0.30 | — |
+| Kimi K3.1 Pro Max | $2.00 | $0.20 | — |
 | SWE-2 Flash Medium | $0.075 | $0.0075 | $0.09375 |
 | Claude Fable 5 High | $10.00 | $1.00 | $12.50 |
 | Claude Fable 5 Low | $10.00 | $1.00 | $12.50 |

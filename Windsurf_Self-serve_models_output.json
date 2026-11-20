@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-11-19 07:06:53",
+    "fetch_datetime": "2026-11-20 06:57:12",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -1666,6 +1666,30 @@
         "input_cost": "$2.00",
         "cache_input_cost": "$0.10",
         "output_cost": "$2.00"
+      },
+      {
+        "model": "Gemini 4 Neon High",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.00"
+      },
+      {
+        "model": "Gemini 4 Neon Low",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.00"
+      },
+      {
+        "model": "Gemini 4 Neon Medium",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.00"
+      },
+      {
+        "model": "Gemini 4 Neon XHigh",
+        "input_cost": "$3.00",
+        "cache_input_cost": "$0.15",
+        "output_cost": "$3.00"
       },
       {
         "model": "Claude Fable 5.1 Medium",

@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "fetch_datetime": "2026-11-24 09:39:56",
+    "fetch_datetime": "2026-11-25 08:12:05",
     "source_url": "https://docs.windsurf.com/windsurf/models"
   },
   "data": {
@@ -96,6 +96,12 @@
         "output_cost": "—"
       },
       {
+        "model": "SWE-2.1 Medium",
+        "input_cost": "—",
+        "cache_input_cost": "—",
+        "output_cost": "—"
+      },
+      {
         "model": "SWE-2 High",
         "input_cost": "—",
         "cache_input_cost": "—",
@@ -183,6 +189,12 @@
         "model": "Kimi K3.1 Pro Max",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
+        "output_cost": "—"
+      },
+      {
+        "model": "SWE-2.1 Medium",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.05",
         "output_cost": "—"
       },
       {
@@ -755,6 +767,12 @@
         "model": "Kimi K3.1 Pro Max",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
+        "output_cost": "—"
+      },
+      {
+        "model": "SWE-2.1 Medium",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.05",
         "output_cost": "—"
       },
       {
@@ -1552,6 +1570,12 @@
         "output_cost": "—"
       },
       {
+        "model": "SWE-2.1 Medium",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.05",
+        "output_cost": "—"
+      },
+      {
         "model": "SWE-2 Flash Medium",
         "input_cost": "$0.075",
         "cache_input_cost": "$0.0075",
@@ -1773,6 +1797,12 @@
         "model": "Kimi K3.1 Pro Max",
         "input_cost": "$2.00",
         "cache_input_cost": "$0.20",
+        "output_cost": "—"
+      },
+      {
+        "model": "SWE-2.1 Medium",
+        "input_cost": "$0.50",
+        "cache_input_cost": "$0.05",
         "output_cost": "—"
       },
       {
